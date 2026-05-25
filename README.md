@@ -11,8 +11,8 @@ Atualmente participo de desafios utilizando IA para criar soluções voltadas à
 - 💻 Estudando Python, lógica de programação e estrutura de dados
 - 🤖 Explorando IA aplicada, agentes e automações
 - 🌐 Estudando desenvolvimento web com Python e Flask
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 📍 Cornélio Procópio / Londrina - PR
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas — Unicesumar (Londrina - PR)
+- 📍 Assaí - PR
 
 ---
 
