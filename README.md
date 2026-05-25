@@ -56,7 +56,9 @@ Atualmente estou focado em fortalecer minha base em:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinhoshirae&show_icons=true&theme=github_dark"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoshirae&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dinhoshirae&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoshirae&layout=compact&theme=dark" />
 </p>
