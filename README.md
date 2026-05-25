@@ -57,6 +57,8 @@ Atualmente estou focado em fortalecer minha base em:
 
 ## 📊 GitHub Stats
 
-![Ronaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhoshirae&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoshirae&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinhoshirae&show_icons=true&theme=github_dark"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoshirae&layout=compact&theme=github_dark"/>
+</p>
