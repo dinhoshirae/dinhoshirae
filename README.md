@@ -2,8 +2,6 @@
 
 Sou um desenvolvedor júnior em constante evolução, estudando **Python, Inteligência Artificial, automação de processos e desenvolvimento web**.
 
-Atualmente participo de desafios utilizando IA para criar soluções voltadas à **otimização de processos, BPO e automações corporativas**.
-
 ---
 
 ## 🚀 Sobre mim
