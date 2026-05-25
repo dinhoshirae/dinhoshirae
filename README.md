@@ -1,26 +1,62 @@
+# Olá, eu sou o Ronaldo Shirae 👋
 
+Sou um desenvolvedor júnior em constante evolução, estudando **Python, Inteligência Artificial, automação de processos e desenvolvimento web**.
 
-Here are some ideas to get you started:
+Atualmente participo de desafios utilizando IA para criar soluções voltadas à **otimização de processos, BPO e automações corporativas**.
 
-- 🔭 A Procura de uma estágio
-- 🌱 Estudando Java e Python
-- 📖 Cursando: Análise e Desenvolvimento de Sistemas
-- 🏫 Unicesumar (Londrina - PR)
-- 😄 Pronouns: ele/dele
+---
 
+## 🚀 Sobre mim
 
-<div align="center">
-  <a href="https://github.com/dinhoshirae">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinhoshirae&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoshirae&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dinho-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
-  <img align="center" alt="Dinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dinho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+- 💻 Estudando Python, lógica de programação e estrutura de dados
+- 🤖 Explorando IA aplicada, agentes e automações
+- 🌐 Estudando desenvolvimento web com Python e Flask
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 📍 Cornélio Procópio / Londrina - PR
 
- ##
-  
-  ![Snake animation](https://github.com/dinhoshirae/dinhoshirae/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+- Desenvolvimento de sistemas com Python
+- Aplicações web utilizando Flask
+- Estudos de algoritmos e lógica de programação
+- Projetos com IA e automação de processos
+
+---
+
+## 📈 Em desenvolvimento
+
+Atualmente estou focado em fortalecer minha base em:
+
+- Lógica de programação
+- Estrutura de dados
+- Python para automação
+- Desenvolvimento web
+- IA aplicada a negócios
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-shirae-629a9a1b5)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinhoshirae)
+
+---
+
+## 📊 GitHub Stats
+
+![Ronaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhoshirae&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhoshirae&layout=compact&theme=tokyonight)
